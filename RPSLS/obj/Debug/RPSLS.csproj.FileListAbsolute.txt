@@ -1,0 +1,5 @@
+C:\Users\Zack\Desktop\C# (Sharp)\RPSLS\RPSLS\bin\Debug\RPSLS.exe.config
+C:\Users\Zack\Desktop\C# (Sharp)\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+C:\Users\Zack\Desktop\C# (Sharp)\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+C:\Users\Zack\Desktop\C# (Sharp)\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+C:\Users\Zack\Desktop\C# (Sharp)\RPSLS\RPSLS\obj\Debug\RPSLS.pdb
